@@ -1,0 +1,8 @@
+﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
+"1"	"10uF"	"C1,C2,C3,C4,C5,C6,C7"	"C0603"	"7"	"CL10A106KP8NNNC"	"SAMSUNG(三星)"	"LCSC"	"C19702"	"0.005"
+"2"	"NSR0320MW2T1G"	"D1"	"SOD-323_L1.8-W1.3-LS2.5-RD"	"1"	"NSR0320MW2T1G"	"onsemi(安森美)"	"LCSC"	"C48192"	"0.057"
+"3"	"SL2.1A"	"U1"	"SOP-16_L10.0-W3.9-P1.27-LS6.0-BL"	"1"	"SL2.1A"	"CoreChips(和芯润德)"	"LCSC"	"C192893"	"0.232"
+"4"	"KPT-3216SYCK"	"U6"	"LED-SMD_L3.2-W1.6-R-RD"	"1"	"KPT-3216SYCK"	"Kingbright"	"LCSC"	"C598374"	"0.105"
+"5"	"100Ω"	"U10"	"RES-TH_BD5.5-L16.5-P20.50-D0.8"	"1"	"OX101KE"	"Ohmite"	"LCSC"	"C2641644"	"2.016"
+"6"	"U-G-04DD-W-01"	"USB1"	"USB-A-TH_U-G-04WD-W-01"	"1"	"U-G-O4DD-W-1"	"韩国韩荣"	"LCSC"	"C98125"	"0.087"
+"7"	"JTJ-USB-AF-08"	"USB2,USB3,USB4,USB5"	"USB-A-TH__USB-AF-90"	"4"	"902-131A1011D10100"	"精拓金"	"LCSC"	"C2345"	"0.046"
