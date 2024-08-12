@@ -1,6 +1,8 @@
 # Portoise_USB_Hub
 **Turtle + USB ports = Portoise! A custom-designed USB hub that extends a USB A port to 4 USB A ports**
 
+### New case for Portoise 2 is done
+
 <img src="images/Turtle.png" width="100"> 
 Updated Version
 <img src="images/FrontV2.png" width="300">
